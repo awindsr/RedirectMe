@@ -1,0 +1,5 @@
+.bgcontainer{
+  background-image: url('bgimg.jpeg');
+  background-size: cover; /* Adjusts the background image to cover the entire container */
+  /* You can add more CSS properties to customize the background image as needed */
+}
